@@ -26,3 +26,5 @@
               user id | age | gender | occupation | zip code
   - u.occupation : A list of the occupations.
 
+### FCPO: Fairness Constrained Policy Optimization
+Use an Actor-Critic learning scheme, but with an extra critic network designed for the fairness constraint.
