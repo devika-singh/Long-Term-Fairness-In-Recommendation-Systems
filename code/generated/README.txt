@@ -1,0 +1,1 @@
+Rest generated files in ipynb notebooks when opened on kaggle
