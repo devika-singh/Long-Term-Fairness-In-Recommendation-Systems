@@ -3,6 +3,12 @@
 - [Dataset (MovieLens 100K Dataset)](https://grouplens.org/datasets/Movielens/)
 - [Experimental data (Github)](https://github.com/TobyGE/FCPO)
 - [Personal Implementation (Google Colab Link)](https://colab.research.google.com/drive/1ZNfXGe6nSjRmBTUGD2ALOLjtmUfhw96Y#scrollTo=8nuKH3BfrWL3)
+
+### Explanation Video
+![Phase 1 - The original code](https://github.com/user-attachments/assets/0d3d5eeb-4ac2-4034-8085-192e8985ea01)
+![Phase 2 - Our improvements](https://github.com/user-attachments/assets/b846198b-248c-4de9-9457-326330ed0a55)
+
+
 ### MovieLens 100K Dataset
 - 100,000 ratings (1-5) from 943 users on 1682 movies.
 - Each user has rated at least 20 movies.
