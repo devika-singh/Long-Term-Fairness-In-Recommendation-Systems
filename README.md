@@ -5,8 +5,8 @@
 - [Personal Implementation (Google Colab Link)](https://colab.research.google.com/drive/1ZNfXGe6nSjRmBTUGD2ALOLjtmUfhw96Y#scrollTo=8nuKH3BfrWL3)
 
 ### Explanation Video
-![Phase 1 - The original code](https://github.com/user-attachments/assets/0d3d5eeb-4ac2-4034-8085-192e8985ea01)
-![Phase 2 - Our improvements](https://github.com/user-attachments/assets/b846198b-248c-4de9-9457-326330ed0a55)
+![Phase 1 - The original code](https://www.youtube.com/watch?v=w2krdpwgRD4)
+![Phase 2 - Our improvements](https://www.youtube.com/watch?v=qqsXgEby5p4&classId=2c054acf-03a2-4d23-8e99-8ffa26f830a4&assignmentId=09e4cc48-88cf-432c-b7ea-7da351975675&submissionId=5ccf7a10-8e48-031e-c656-f550ec0b9eae)
 
 
 ### MovieLens 100K Dataset
